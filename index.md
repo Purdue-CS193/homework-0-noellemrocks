@@ -4,4 +4,6 @@
 - run by students/seems pretty relaxed
 - I stay engaged more so than with other lectures
 - useful information
-theme: merlot
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme
