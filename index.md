@@ -4,3 +4,4 @@
 - run by students/seems pretty relaxed
 - I stay engaged more so than with other lectures
 - useful information
+theme: merlot
